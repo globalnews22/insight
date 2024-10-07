@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://globalnews22.github.io/insight/sitemap_index.xml
